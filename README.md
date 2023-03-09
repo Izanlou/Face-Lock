@@ -5,4 +5,3 @@ Face lock application which can process the entering of windows using your face!
 
 * you will need to install some libraries. and it is necessary to run the setting.py at first and train your face to the base code then the base code can recognize your face!
 
-#thanks from mjrovai
